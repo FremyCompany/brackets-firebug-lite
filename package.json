@@ -1,0 +1,9 @@
+{
+    "name": "firebug-lite",
+    "title": "Loads firebug lite in the live preview (F12)",
+    "description": "Lets the user explore the live DOM in his pages.",
+    "version": "1.0.0",
+    "author": "François REMY <francois.remy.dev@outlook.com> (http://fremycompany.com/)",
+    "license": "MIT",
+    "categories": "editing"
+}
