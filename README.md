@@ -10,7 +10,7 @@ Firebug Lite is an extension for [Brackets](https://github.com/adobe/brackets/),
 To use Firebug Lite:
 
 1. Choose _File > Install Extension_
-2. Enter this URL: _https://github.com/jeffslofish/quick-navigate_
+2. Enter this URL: _https://github.com/FremyCompany/brackets-firebug-lite_
 3. Click _Install_!
 4. Reload Brackets.
 
